@@ -4,7 +4,7 @@
 
 ![Name the Move: the 12 moves from the video](cover.png)
 
-Most viral Opus 5.5 prompts just say “make it dynamic… go all out”, so the model picks the motion for you. Name the move, and you get that move. Here are 100 named moves in 10 groups, each with a one-line prompt; the 12 moves from the video come with a preview and a full copy-paste prompt.
+6 in 10 prompts behind viral Opus 5.5 videos never name a single move (a real one: “make a dynamic 15-second motion graphics video… go all out”), which leaves the motion up to the model. Name the move, and you tell it exactly what to animate. Here are 100 named moves in 10 groups, each with a one-line prompt; the 12 moves from the video come with a preview and a full copy-paste prompt.
 
 **[Download the field guide (PDF, A4, 20 pages)](name-the-move.pdf)**
 
@@ -56,7 +56,7 @@ in a fixed-width cell so the word never changes width.
 
 ![Odometer Roll](previews/odometer.gif)
 
-`#10 in the video` · Data & numbers · named in 0 of 703 viral prompts
+`#10 in the video` · Data & numbers · named in 2 of 703 viral prompts
 
 ```text
 Odometer Roll: each digit is a vertical strip of 0–9 seen through a one-digit window. Spin the
@@ -82,7 +82,7 @@ smaller bounce, then a damped jiggle to rest. The label on it follows 2–3 fram
 
 ![Screen Zoom](previews/screen-zoom.gif)
 
-`#8 in the video` · UI & product · named in 0 of 703 viral prompts
+`#8 in the video` · UI & product · named in 10 of 703 viral prompts
 
 ```text
 Screen Zoom: a UI window and a cursor moving on a curved path to the main button. The camera
